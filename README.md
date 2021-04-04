@@ -1,5 +1,5 @@
 # logo
-Logotyp powerDNS
+[Logotyp powerDNS](https://power-dns.github.io/logo/)
 
 
 
